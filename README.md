@@ -1,19 +1,19 @@
 # HR_Analytics
 This dashboard is created using Power BI to help an organization to improve employee performance and employee retention (reduce attrition). Project learnings include identification of key factors to reduce attrition, improvement in hiring process and employee experience.
-The steps involved are:
+# The steps involved are:
 1. Data Collection
 2. Data cleaning & processing
 3. Data Modelling
 4. Data Visualization
 5. Dashboarding design
 6. Sharing useful Insights
-The project learnings are:
+# The project learnings are:
 1. Identified key factors to reduce attrition.
 2. Improved the hiring process.
 3. Improved employee experience.
 4. Made workforce more productive.
 5. Gained employee trust.
-Key Insights:
+# Key Insights:
 Employees who leave the company are ->
 1. 38% belong to educational background as Life Sciences.
 2. People with age group 26-35
