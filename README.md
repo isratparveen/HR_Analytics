@@ -22,3 +22,5 @@ Employees who leave the company are ->
 5. 62 belong to job role as Laboratory Technician
 6. Employees with salary hike of 10-20%
 7. People working in same job role for 1-8 years.
+<img width="606" alt="Screenshot 2023-08-11 194652" src="https://github.com/isratparveen/HR_Analytics-Dashboard/assets/88919216/4acbc260-9851-4f89-8268-29cf1fe0580e">
+
